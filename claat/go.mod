@@ -1,4 +1,4 @@
-module github.com/googlecodelabs/tools/claat/v2
+module github.com/atavakoliyext/googlecodelabs-tools/claat/v2
 
 go 1.11
 

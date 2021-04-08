@@ -25,7 +25,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/googlecodelabs/tools/claat/cmd"
+	"github.com/atavakoliyext/googlecodelabs-tools/claat/v2/cmd"
 )
 
 func TestExportCodelabMemory(t *testing.T) {
