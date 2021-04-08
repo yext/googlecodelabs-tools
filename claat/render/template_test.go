@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/googlecodelabs/tools/claat/types"
+	"github.com/yext/googlecodelabs-tools/claat/v2/types"
 )
 
 func TestExecuteBuiltin(t *testing.T) {
